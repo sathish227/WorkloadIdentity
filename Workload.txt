@@ -1,4 +1,4 @@
-"AadClientId": "XOn8Q~_UAzKyIvijLcFy6wXmLyl83b61U~wcdac3",
-  "AadSecret": "_.V8Q~.AI25P1G3.eo83.kyQXv9xfRsceomPhcfR",
-  "AadTenantDomain": "wps99.onmicrosoft.com",
+"AadClientId": "da751b74-33df-4cbb-b9bb-7fff4ebf5053",
+  "AadSecret": "19v8Q~1RbBUwUEiEFcZ9dcYcOMZXUVvXqqcfOaRr",
+  "AadTenantDomain": "INGWPS99.onmicrosoft.com",
   "AadTenantId": "b5b7efd7-5ca3-4b54-ada0-9fea9607b8d2",
