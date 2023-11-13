@@ -1,4 +1,4 @@
 "AadClientId": "da751b74-33df-4cbb-b9bb-7fff4ebf5053",
-  "AadSecret": "19v8Q~1RbBUwUEiEFcZ9dcYcOMZXUVvXqqcfOaRr",
+  "AadSecret": "uD88Q~9SOhmWyH4CfmEFvRuKhSw4xfjeGOjNvdA.",
   "AadTenantDomain": "INGWPS99.onmicrosoft.com",
   "AadTenantId": "b5b7efd7-5ca3-4b54-ada0-9fea9607b8d2",
